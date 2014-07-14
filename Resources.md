@@ -1,0 +1,2 @@
+- [GLM and Survival Model Lecture Notes by Germán Rodríguez](http://data.princeton.edu/wws509/notes/c7s4.html)
+- [tmp]()
